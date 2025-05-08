@@ -1,9 +1,9 @@
 # ---- NODE.JS ----
-backend/node_modules/
-backend/.env
-backend/dist/
-backend/logs/
-backend/npm-debug.log*
+Backend/node_modules/
+Backend/.env
+Backend/dist/
+Backend/logs/
+Backend/npm-debug.log*
 
 # ---- VUE / FRONTEND ----
 frontend/node_modules/
