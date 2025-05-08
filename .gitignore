@@ -1,0 +1,24 @@
+# ---- NODE.JS ----
+backend/node_modules/
+backend/.env
+backend/dist/
+backend/logs/
+backend/npm-debug.log*
+
+# ---- VUE / FRONTEND ----
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+
+# ---- SISTEMA / GENERAL ----
+.DS_Store
+Thumbs.db
+*.log
+
+# ---- IDEs ----
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
